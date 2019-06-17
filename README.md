@@ -5,20 +5,11 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+This simple application use ruby rails to develop a web application. For now, the target is to learn ruby and rails.
 
-* System dependencies
+* ruby 2.3.3p222
+* rails 5.2.3
 
-* Configuration
+* System is debian 9 64bit
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Run application as development mode
