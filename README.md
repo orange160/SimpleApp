@@ -13,3 +13,5 @@ This simple application use ruby rails to develop a web application. For now, th
 * System is debian 9 64bit
 
 * Run application as development mode
+
+* Use sqlite3
